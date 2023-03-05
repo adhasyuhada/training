@@ -1,0 +1,4 @@
+nama nik gender status
+dono 123 laki active
+dino 234 laki active
+doni 456 laki active
